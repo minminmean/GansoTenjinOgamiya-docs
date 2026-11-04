@@ -1,0 +1,18 @@
+# OS が勝手に作るもの
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# エディタの一時ファイル
+*.bak
+*.tmp
+*~
+.vscode/
+.idea/
+
+# 書き出し用のテキスト（正は A_本編/*.md のほう）
+A_本編/txt/
+
+
+# ローカル専用の許可設定
+.claude/settings.local.json
